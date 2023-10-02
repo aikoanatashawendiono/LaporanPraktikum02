@@ -1,0 +1,1 @@
+Variabel x bernilai %i \n", x
