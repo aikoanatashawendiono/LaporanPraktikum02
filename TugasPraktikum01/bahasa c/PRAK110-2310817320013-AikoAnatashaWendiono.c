@@ -20,4 +20,5 @@ int main(){
     printf("Sisi C = %.0f cm\n", C);
     printf("Keliling = %.0f cm\n", keliling);
     printf("Luas = %.0f cm\n", luas);
+    return 0;
 }
