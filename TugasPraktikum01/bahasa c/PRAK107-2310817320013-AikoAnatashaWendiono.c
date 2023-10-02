@@ -11,8 +11,8 @@ int main(){
     biaya = k * h;
 
     printf("Diketahui : \n");
-    printf("Panjang sisi segitiga berturut-turut adalah %d,\n", p);
-    printf("%d,", l);
+    printf("Panjang sisi segitiga berturut-turut adalah %d, ", p);
+    printf("%d, ", l);
     printf("%d\n", t);
     printf("Keliling Tanah Pak Dengklek adalah %d\n", k);
     printf("Harga tanah Per Meter adalah %d\n", h);
